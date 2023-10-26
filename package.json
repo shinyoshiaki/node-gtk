@@ -62,5 +62,6 @@
     "remote_path": "./{module_name}/v{version}/",
     "package_name": "{module_name}-{node_abi}-{platform}-{arch}.tar.gz",
     "host": "https://node-gtk-1.s3.amazonaws.com"
-  }
+  },
+  "packageManager": "npm@9.2.0"
 }
